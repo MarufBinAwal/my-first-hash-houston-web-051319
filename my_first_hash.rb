@@ -1,5 +1,5 @@
 def my_hash
- animals = {"Tiger" => "cat", 
+ animals = {"Tiger" => "feline", "Wolf" => "canine", "Eagle" => "raptor"}
   
 end
 
